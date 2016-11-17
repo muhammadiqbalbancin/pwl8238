@@ -22,3 +22,4 @@ $pegawai = array('manajer'  => 'Aas',
 		echo "true";
 	}
 ?>
+//ini hanya percobaan github
